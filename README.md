@@ -1,5 +1,5 @@
 # DesktopDatabase
-This is a repository to showcase examples of how interact with the Safex.io blockchain using a desktop database
+This is a repository to showcase examples of how interact with the Safex.org blockchain using a desktop database
 
 One of the most simplest yet powerful yet complicated desktop databases is Microsoft Access Database. 
 It can be configured to do some amazing things, complex things, and automated things. 
